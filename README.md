@@ -15,6 +15,7 @@ This repository covers the following design patterns:
    2. Factory Method
    3. Builder Pattern
 2. Structural Design Patterns
+    1. Adapter Pattern (soon)
 3. Behavioral Design Patterns
    
 
