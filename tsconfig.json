@@ -1,0 +1,10 @@
+{
+    "compileOnSave": false,
+    "compilerOptions": {
+      "target": "ES6",
+      "module": "CommonJS",
+      "outDir": "out-tsc",
+      "baseUrl": "./"
+    }
+  }
+  

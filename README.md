@@ -13,6 +13,7 @@ This repository covers the following design patterns:
 1. Creational Design Patterns
    1. Singleton
    2. Factory Method
+   3. Builder Pattern
 2. Structural Design Patterns
 3. Behavioral Design Patterns
    
